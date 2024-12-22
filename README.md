@@ -1,3 +1,4 @@
+```
 1.Confirm your python environment
 2.For general gfx file generation(idea, portraits, etc.):
 	1)Copy oneclick_gfxize.py to the directory with only files you need to batch process
@@ -22,3 +23,4 @@ Author:192197
 3.把输出的.gfx文件中的*PATH_TO_REPLACE*文本批量替换成你需要的路径
 
 作者：192197
+```
